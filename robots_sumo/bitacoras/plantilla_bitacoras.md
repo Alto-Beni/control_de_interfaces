@@ -2,21 +2,23 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo: _GGBN______________________________
+## Nombre del Robot: ___Bebron___________________
+## Capitán: ________Benicio Altonaga_______________________
+## Subcapitán: ______Gonzalo Benmaor______________________
 ## Integrantes:
--
--
--
+-Gianfranco Almirón
+-Benicio Barri
+-NIcolás Estevez
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 
 ### Integrantes presentes:
--
--
--
+-Benicio Altonaga
+-Gonzalo Benmaor
+-Gianfranco Almirón
+-Benicio Barri
+-Nicolás Estevez
 
 ### Objetivos de la jornada:
 -
@@ -56,22 +58,22 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: _Gianfranco Almirón___________________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: _Benicio Barri___________________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: _Nicolás Estevez___________________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: __Benicio Altonaga__________________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: _Gonzalo Benmaor___________________________
 
 Tarea realizada:
