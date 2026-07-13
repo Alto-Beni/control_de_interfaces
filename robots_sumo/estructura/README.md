@@ -13,3 +13,5 @@ en la parte central del chasis va colocado el portapilas de cuatro pilas aa, apr
 los puntos de fijacion de los motores van a estar diseñados para usar tornillos m2 o m3 junto con los soportes que vienen en el kit, de forma que los motores queden bien sujetos y no se muevan durante los impactos.
 
 en la parte delantera inferior va la rampa y en la parte trasera inferior se ubicara la rueda loca, que sirve como tercer punto de apoyo y permite que el robot gire con facilidad sin arrastrar el chasis por el piso.
+
+![Boceto del robot](Dibujodelrobot2.png)
