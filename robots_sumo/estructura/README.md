@@ -14,4 +14,4 @@ los puntos de fijacion de los motores van a estar diseñados para usar tornillos
 
 en la parte delantera inferior va la rampa y en la parte trasera inferior se ubicara la rueda loca, que sirve como tercer punto de apoyo y permite que el robot gire con facilidad sin arrastrar el chasis por el piso.
 
-![Boceto del robot](Dibujodelrobot2.png)
+![Boceto del robot](Dibujodelrobot1.png)
