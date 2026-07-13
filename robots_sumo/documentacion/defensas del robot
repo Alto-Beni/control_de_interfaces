@@ -1,0 +1,5 @@
+Se definió el mecanismo de defensa del robot. 
+  Se optó por implementar una rampa móvil que
+  al detectar el impacto del robot contrario,será accionada mediante un motor. 
+ Esto permitirá levantar la rampa para desestabilizar al oponente
+    voltearlo y posteriormente empujarlo fuera del área de combate.
