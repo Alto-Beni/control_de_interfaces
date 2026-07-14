@@ -1,0 +1,31 @@
+
+Un Puente H es un componente electrónico que se usa para controlar motores de corriente continua. Su función principal es permitir que los motores giren en ambos sentidos (hacia adelante y hacia atrás) y controlar su frenado.
+Los microcontroladores, como la Raspberry Pi Pico W, funcionan con muy poca corriente y solo pueden enviar señales de baja potencia. Si conectáramos un motor directamente a la placa, la quemaríamos. El Puente H sirve como un intermediario de potencia: recibe las órdenes lógicas de la Pico W y deja pasar la fuerza de las pilas directamente hacia los motores.
+¿Cómo funciona?
+Internamente tiene cuatro transistores que funcionan como interruptores dispuestos en forma de "H", con el motor en el centro.
+Para que el motor gire hacia un lado, el puente cierra dos interruptores en diagonal, haciendo que la corriente vaya de izquierda a derecha.
+Para invertir el giro, abre esos dos y cierra los otros dos en diagonal, haciendo que la corriente viaje de derecha a izquierda.
+Si se activan los dos interruptores del mismo lado a la vez se produciría un cortocircuito, pero los módulos comerciales (como el L298N) ya vienen protegidos internamente para evitar que esto pase.
+Conexión de nuestro circuito (Raspberry Pi Pico W + Puente H + Pilas)
+La conexión quedó armada respetando la distribución física de la Pico W y asegurando la masa común para que no haya fallas de señal:
+1. Alimentación y Masa Común (GND)
+El polo Positivo (+) de las pilas va al pin 12V del Puente H.
+El polo Negativo (-) de las pilas va al pin GND del Puente H.
+El pin GND de la Raspberry Pi Pico W (usamos el pin físico 8, que está justo entre GP5 y GP6) se conecta también al pin GND del Puente H. Esto es fundamental para que la placa y el puente compartan la misma referencia de masa.
+2. Control de los Motores (Señales Lógicas)
+Conectamos las salidas de la Pico W a las entradas lógicas (IN) del Puente H en este orden:
+Pin GP7 ➔ IN1 (Control de giro del Motor 1)
+Pin GP6 ➔ IN2 (Control de giro del Motor 1)
+Pin GP5 ➔ IN3 (Control de giro del Motor 2)
+Pin GP4 ➔ IN4 (Control de giro del Motor 2)
+3. Salida a los Motores
+El Motor 1 se conecta a los bornes OUT1 y OUT2 del Puente H.
+El Motor 2 se conecta a los bornes OUT3 y OUT4 del Puente H.
+Tabla de programación para el código
+Para darle las órdenes desde la Pico W, la lógica que tenemos que usar en el código según las conexiones físicas que hicimos es la siguiente:
+Motor 1 Adelante: GP7 en HIGH / GP6 en LOW
+Motor 1 Atrás: GP7 en LOW / GP6 en HIGH
+Motor 1 Frenar: GP7 en LOW / GP6 en LOW
+Motor 2 Adelante: GP5 en HIGH / GP4 en LOW
+Motor 2 Atrás: GP5 en LOW / GP4 en HIGH
+Motor 2 Frenar: GP5 en LOW / GP4 en LOW
