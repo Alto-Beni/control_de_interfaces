@@ -59,6 +59,8 @@ las ruedas pesan 28 g
 
 ![segundo método de defensa del robot](IMG-20260713-WA0003.jpg)
 
+![imagen del esquema del puente H](IMG-20260713-WA0008.jpg)
+
 ### Tareas pendientes:
 -probar el puente H
 -definir el método de ataque y sus materiales
