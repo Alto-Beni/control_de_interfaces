@@ -55,11 +55,7 @@ las ruedas pesan 28 g
 -
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas):
-![esquema del método de defensa del Bebron, la rampa](blob:https://web.whatsapp.com/e9223c49-9b65-4035-8598-a872f397ab60)
-
-![segunda foto del método de defensa del Bebron](blob:https://web.whatsapp.com/bbf36b46-4711-4296-a377-0cf86a8daae7)
-
-![esquema del puente H y sus conexiones](blob:https://web.whatsapp.com/07ece3a4-91be-423e-871c-84458189635d)
+![método de defensa del robot](IMG-20260713-WA0002.png)
 
 ### Tareas pendientes:
 -probar el puente H
