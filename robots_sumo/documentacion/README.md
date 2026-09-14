@@ -32,5 +32,11 @@ Carpeta designada para la documentación de robot -nombre
 - Motor 2 Adelante: GP5 en HIGH / GP4 en LOW
 - Motor 2 Atrás: GP5 en LOW / GP4 en HIGH
 - Motor 2 Frenar: GP5 en LOW / GP4 en LOW
+
+- DEFENSA DEL ROBOT
+- Se optó por implementar una rampa móvil:
+- Que al detectar el impacto del robot contrario,será accionada mediante un motor. 
+- Esto permitirá levantar la rampa para desestabilizar al oponente
+    voltearlo y posteriormente empujarlo fuera del área de combate.
 - 
 
