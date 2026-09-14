@@ -38,5 +38,8 @@ Carpeta designada para la documentación de robot -nombre
 - Que al detectar el impacto del robot contrario,será accionada mediante un motor. 
 - Esto permitirá levantar la rampa para desestabilizar al oponente
     voltearlo y posteriormente empujarlo fuera del área de combate.
-- 
+- Se seleccionó el material con el que se fabricará la estructura del robot
+determinando que las piezas serán realizadas mediante impresión 3D
+por su facilidad de fabricación, precisión y bajo peso.
+
 
