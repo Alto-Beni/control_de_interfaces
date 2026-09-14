@@ -16,3 +16,7 @@ en la parte delantera inferior va la rampa y en la parte trasera inferior se ubi
 
 ![Esquema de la estructura Del Robot y sus vistas](Dibujodelrobot1.jpg)
 ![Esquema de la estructura Del Robot y sus vistas](Dibujo_del_robot2.jpg)
+
+# Plan De Ataque
+El metodo de ataque va a ser el siguiente
+El Robot va a avanzar hacia el oponente usando los motores, al encontrarlo va a chocar de frente. La rampa curva va a entrar por debajo del robot contrario, lo va a levantar y Los motores van a seguir empujando hacia adelante para desplazarlo.El objetivo es aprovechar la rampa y la fuerza de los motores para sacar al otro robot del area de combate
