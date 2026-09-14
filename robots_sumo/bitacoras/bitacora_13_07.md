@@ -5,52 +5,52 @@
 ## Capitán: ________Benicio Altonaga_______________________
 ## Subcapitán: ______Gonzalo Benmaor______________________
 ## Integrantes:
--Gianfranco Almirón
--Benicio Barri
--NIcolás Estevez
+- Gianfranco Almirón
+- Benicio Barri
+- NIcolás Estevez
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 13/07/26
 ### Integrantes presentes:
--Benicio Altonaga
--Gonzalo Benmaor
--Gianfranco Almirón
--Benicio Barri
--Nicolás Estevez
+- Benicio Altonaga
+- Gonzalo Benmaor
+- Gianfranco Almirón
+- Benicio Barri
+- Nicolás Estevez
 
 ### Objetivos de la jornada:
--hacer un gráfico del vehículo
--definir métodos de defensa
--probar el puente H
--investigar el peso de los componentes
--hacer el diagrama esquematico del puente H y los componentes
+- Hacer un gráfico del vehículo
+- Definir métodos de defensa
+- Probar el puente H
+- Investigar el peso de los componentes
+- Hacer el diagrama esquematico del puente H y los componentes
 
 ### Actividades realizadas:
--investgación del peso de los componentes:
-los motores pesan aprox 30 g
-la rueda direccional pesa aprox entre 30 y 40 g
-las ruedas pesan 28 g
--gráfico del vehículo
--diagrama esquematico del puente H y las conexiones
+- Investgación del peso de los componentes:
+ Los motores pesan aprox 30 g
+ La rueda direccional pesa aprox entre 30 y 40 g
+ Las ruedas pesan 28 g
+- Gráfico del vehículo
+- Diagrama esquematico del puente H y las conexiones
 
 
 ### Problemas encontrados:
--no pudimos probar el puente H porque no llegamos a programar la Raspberry.
+- No pudimos probar el puente H porque no llegamos a programar la Raspberry.
 -
 -
 
 ### Soluciones implementadas o propuestas:
--terminar de programar la Raspberry
+- Terminar de programar la Raspberry
 -
 -
 
 ### Pruebas realizadas:
--probamos los motores con 5 volts
+- Probamos los motores con 5 volts
 -
 -
 
 ### Resultados obtenidos:
--salió bien la prueba de motores
+- Salió bien la prueba de motores
 -
 -
 
@@ -62,8 +62,8 @@ las ruedas pesan 28 g
 ![imagen del esquema del puente H](IMG-20260713-WA0008.jpg)
 
 ### Tareas pendientes:
--probar el puente H
--definir el método de ataque y sus materiales
+- Probar el puente H
+- Definir el método de ataque y sus materiales
 -
 
 ### APORTES INDIVIDUALES
