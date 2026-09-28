@@ -74,7 +74,7 @@ gpio_get(BOTON); / /Lee el GPIO
 
 •Un ADC (Conversor Analógico-Digital) en un microcontrolador es un circuito interno o externo que transforma señales eléctricas continuas (como el voltaje de un sensor) en valores numéricos discretos que el procesador puede leer y manipular.
 
--¿Cómo funciona?
+- ¿Cómo funciona?
 
 -Señal analógica: Varía de manera continua en el tiempo (por ejemplo, la temperatura de un sensor que marca entre 0V y 5V). 
 -Resolución (Bits): Define cuántos valores posibles puede generar el conversor. Un ADC de 10 bits ofrece 1024 valores (2¹⁰, de 0 a 1023), mientras que uno de 12 bits ofrece 4095 valores (2¹², de 0 to 4095). • Voltaje de referencia ((V_{ref})): Es el límite máximo de voltaje que el ADC puede medir de forma precisa.
