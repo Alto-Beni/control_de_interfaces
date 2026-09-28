@@ -58,6 +58,7 @@ Conecta el pin de entrada al voltaje positivo ( ) a través de una resistencia. 
 
 - líneas fundamentales para configurar las resistencias en una Pi pico W son estas:
 
+```bash
 #include "pico/stdlib.h" #include "hardware/gpio.h"
 
 gpio_pull_up(BOTON); //pull up
@@ -69,6 +70,7 @@ y esto sería un código de ejemplo: gpio_init(BOTON); // Inicializa el GPIO gpi
 gpio_pull_up(BOTON); // Pull-up gpio_pull_down(BOTON); // Pull-down
 
 gpio_get(BOTON); / /Lee el GPIO
+```
 
 - ¿qué es un ADC?
 
