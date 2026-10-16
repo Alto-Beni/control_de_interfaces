@@ -74,7 +74,7 @@ Tarea realizada: Bitacoras,ayudo en la investigacion de como programar el pwm y 
 
 Integrante: _Nicolás Estevez___________________________
 
-Tarea realizada: Investigacion del codigo pwm ,diseño como el robot ataca con la rampa a oponentes y agrego una carpeta en particular para imagenes 
+Tarea realizada: Investigacion del codigo pwm ,diseño como el robot ataca con la rampa a oponentes y agrego una carpeta en particular para imagenes, falta meter todas las respectas imagenes en la carpeta de img y ponerlas en estructura
 
 Integrante: __Benicio Altonaga__________________________
 
